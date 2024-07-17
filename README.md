@@ -27,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theachyutkadam&show_icons=true&locale=en" alt="theachyutkadam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theachyutkadam&" alt="theachyutkadam" /></p>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
