@@ -1,33 +1,124 @@
-<h1 align="center">Hi 👋, I'm Achyut Kadam</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+# <div align="center">Hi 👋, I'm Achyut Kadam</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theachyutkadam&label=Profile%20views&color=0e75b6&style=flat" alt="theachyutkadam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theachyutkadam" alt="theachyutkadam" /></a> </p>
-
-- 🔭 I’m currently working on [Society Gate application](https://github.com/theachyutkadam/SocietyGate)
-
-- 🌱 I’m currently learning **Node JS, and React**
-
-- 👨‍💻 All of my projects are available at [https://github.com/theachyutkadam](https://github.com/theachyutkadam)
-
-- 💬 Ask me about **Ruby on Rails, Angular, Sinatra, FastAPI, NodeJS**
-
-- 📫 How to reach me **theachyutkadam@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theachyutkadam&show_icons=true&locale=en&layout=compact" alt="theachyutkadam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theachyutkadam&show_icons=true&locale=en" alt="theachyutkadam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theachyutkadam&" alt="theachyutkadam" /></p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Ruby+on+Rails+%7C+Angular+Developer;Backend+Engineering+%7C+REST+APIs;Building+Scalable+Web+Applications;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
+</div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <a href="https://github.com/theachyutkadam">
+    <img src="https://komarev.com/ghpvc/?username=theachyutkadam&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-India-success?style=for-the-badge" alt="India" />
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **Full Stack Developer from India 🇮🇳**, interested in building reliable, user-friendly, and scalable web applications.
+
+- 💎 **Core strengths:** Ruby on Rails, Angular, Ruby, JavaScript, TypeScript
+- 🏗️ **Backend:** REST APIs, authentication, database design, application architecture
+- 🧪 **Engineering:** Automated testing, debugging, code quality, maintainability
+- 🔭 **Project:** [SocietyGate](https://github.com/theachyutkadam/SocietyGate)
+- 🌱 **Exploring:** React, Node.js, modern full-stack development
+- 🤝 **Interested in:** Meaningful products, engineering challenges, collaboration
+- 💬 **Ask me about:** Rails, Angular, Sinatra, FastAPI, Node.js
+- 📫 **Email:** [theachyutkadam@gmail.com](mailto:theachyutkadam@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,angular,ts,js,python,nodejs,react,django,fastapi,html,css,bootstrap,sass&perline=7" alt="Languages and frameworks" />
+</p>
+
+### 🗄️ Databases & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,aws,azure,firebase,docker,linux&perline=5" alt="Databases and infrastructure" />
+</p>
+
+### 🔧 Tools & Workflow
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,figma,graphql,heroku,vscode&perline=8" alt="Developer tools" />
+</p>
+
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+  <a href="https://github.com/theachyutkadam/SocietyGate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theachyutkadam&repo=SocietyGate&theme=tokyonight&hide_border=true" alt="SocietyGate repository" />
+  </a>
+</div>
+
+**SocietyGate** — Explore the source code, architecture, and implementation in the repository.
+
+🔗 [Explore SocietyGate](https://github.com/theachyutkadam/SocietyGate)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=theachyutkadam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theachyutkadam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=theachyutkadam&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=theachyutkadam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=4" alt="GitHub trophies" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theachyutkadam&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theachyutkadam/theachyutkadam/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theachyutkadam/theachyutkadam/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/theachyutkadam/theachyutkadam/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="mailto:theachyutkadam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/theachyutkadam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=110&section=footer" alt="Footer" />
+</div>
